@@ -1,28 +1,56 @@
+Here is your updated, highly professional, and eye-catching **GitHub Profile README**. 
+
+### ⚙️ Fixes & Enhancements Made:
+1. **Fixed Broken Typing SVG**: Changed `herokuapp.com` (broken/outdated) to `demolab.com` with high-contrast Cyberpunk Cyan (`#00F0FF`) & Magenta (`#FF007F`).
+2. **Updated Projects**: 
+   - Marked **OfficeMate Autonomous Navigation System** as **Completed** 🟢.
+   - Added your new **Configurable Industrial Sensing & Remote Workforce SaaS Platform** as **Ongoing** ⚡ (incorporating mobile data capture, multi-tenant API, and automated analytics engine).
+3. **Applied Radical/Cyberpunk Theme**: Unified all GitHub Stats and Streak badges to the `radical` theme (neon cyan/magenta look).
+4. **Enhanced Tech Stack Badges**: Replaced invalid icons with fully working, high-definition icons via `skillicons.dev` and `shields.io`.
+
+---
+
+### 🚀 Copy & Paste Code below into your `iamdamith21/README.md`:
+
+```markdown
+<!-- TYPING SVG HEADER ANIMATION (FIXED URL) -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Damith+Tharanga+👋;Robotics+%26+Embedded+Systems+Engineer;Full-Stack+Web+Developer;ROS+2+%2B+Autonomous+Navigation+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Damith+Tharanga+%F0%9F%91%8B;IT+%26+Engineering+Undergraduate+%40+UoM;Full-Stack+Web+%26+SaaS+Platform+Developer;Robotics+%2B+Industrial+Sensing+Specialist" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <b>Engineering Undergraduate at University of Moratuwa</b> 🎓<br>
-  Specializing in <b>ROS 2 Autonomous Robotics</b>, <b>Embedded Firmware (Arduino/C++)</b>, and <b>Modern Web Applications</b>.
+  🎓 <b>Undergraduate at University of Moratuwa</b> 🇱🇰<br>
+  Specializing in <b>Full-Stack SaaS Platforms</b>, <b>Industrial Sensing Workflows</b>, and <b>ROS 2 Autonomous Robotics</b>.
 </p>
 
+<!-- SOCIAL & CONTACT BADGES -->
 <div align="center">
+  <a href="https://www.linkedin.com/in/damith-tharanga">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abeysinghesmdt.24@uom.lk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/iamdamith21">
+    <img src="https://img.shields.io/github/followers/iamdamith21?style=for-the-badge&logo=github&color=00F0FF" alt="GitHub Followers" />
+  </a>
+</div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damith-tharanga)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abeysinghesmdt.24@uom.lk)
-  [![GitHub Followers](https://img.shields.io/github/followers/iamdamith21?style=for-the-badge&logo=github&color=38BDF8)](https://github.com/iamdamith21)
+<br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider"/>
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus**: Building **OfficeMate** — an autonomous 4WD delivery robot platform powered by ROS 2 Humble, Nav2, SLAM Toolbox, and an Express/React Web Management Console.
-- 🎓 **Education**: Undergraduate Engineer at **University of Moratuwa** 🇱🇰.
-- ⚡ **Technical Expertise**: Autonomous Navigation (Nav2, AMCL, Costmaps), Differential/Skid-Steer Kinematics, Sensor Fusion (LiDAR, Ultrasonic, IMU), Microcontroller Firmware (Arduino C++), and Full-Stack Web Development (React 19, Node.js, Express, MongoDB, WebSocket telemetry).
-- 💬 **Ask me about**: ROS 2 Humble, Nav2 tuning, hardware-software integration, and real-time robotics telemetry web apps.
+- ⚡ **Current Focus (Ongoing)**: Developing a **Configurable Industrial Sensing & Remote Workforce SaaS Platform** — a multi-tenant solution empowering remote teams with mobile data capture, automated workflows, custom dashboard portals, and real-time operational analytics.
+- 🤖 **Completed Milestone**: Built **OfficeMate** — an autonomous 4WD indoor delivery robot platform powered by ROS 2 Humble, Nav2, SLAM Toolbox, and an Express/React Web Management Console.
+- 🎓 **Education**: Undergraduate Engineer / IT Student at **University of Moratuwa** 🇱🇰.
+- 💡 **Core Strengths**: Multi-Tenant SaaS Architecture, REST APIs, System Automation, Embedded Firmware (Arduino/C++), and Responsive Web Applications.
+- 💬 **Ask me about**: SaaS architecture, ROS 2 Nav2 tuning, hardware-software integration, and real-time web telemetry.
 
 ---
 
@@ -32,17 +60,17 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Robotics & Control** | `ROS 2 Humble` `Nav2` `SLAM Toolbox` `AMCL` `RF2O Odometry` `RPLiDAR` `Gazebo` `RViz` |
-| **Embedded & Hardware** | `C++` `Arduino Mega` `L298N Motor Drivers` `MPU6050 IMU` `HC-SR04 Sonar` `I2C/SPI/UART` |
-| **Web & Backend** | `JavaScript (ES6+)` `React 19` `Node.js` `Express` `MongoDB` `ROSLIB.js` `Vite` `Tailwind CSS` |
-| **DevOps & Tools** | `Git` `GitHub` `Linux (Ubuntu/Raspbian)` `Bash` `Vercel` `VS Code` |
+| **Full-Stack & Web** | `PHP` `MySQL` `JavaScript (ES6+)` `React 19` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Vite` |
+| **Robotics & Embedded** | `ROS 2 Humble` `Nav2` `SLAM Toolbox` `C++` `Arduino` `MPU6050` `RPLiDAR` `Gazebo` |
+| **DevOps & Infrastructure** | `Docker` `Git` `GitHub` `Linux (Ubuntu)` `Bash` `Vercel` |
 
 </div>
 
 <br>
 
+<!-- TECH ICONS GRID -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ros,cpp,py,arduino,js,react,nodejs,express,mongodb,tailwind,vite,git,linux,bash&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,react,nodejs,express,mongodb,tailwind,vite,cpp,py,arduino,docker,git,linux,bash&perline=8" alt="Tech Stack Icons" />
 </div>
 
 ---
@@ -51,10 +79,11 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 **[OfficeMate Navigation Stack](https://github.com/iamdamith21/OfficeMate-Autonomous-Navigation-System)** | Full autonomous indoor delivery robot system with SLAM mapping, custom 4WD chassis, and EKF sensor fusion. | ROS 2 Humble, Nav2, Arduino C++, Python |
-| 🌐 **[OfficeMate Web Platform](https://github.com/iamdamith21/officemate-webapp)** | Real-time web application dashboard for live SLAM map telemetry, interactive goal dispatching, and delivery management. | React 19, Express, MongoDB, ROSLIB.js, Vite |
+| Project | Status | Description | Tech Stack |
+| :--- | :---: | :--- | :--- |
+| 🏬 **Industrial Sensing SaaS Platform** | 🚧 **Ongoing** | Configurable SaaS platform for remote workforce data capture, mobile client workflows, multi-tenant APIs, and automated analytics. | React, Express, Node.js, MongoDB, Docker |
+| 🤖 **[OfficeMate Navigation Stack](https://github.com/iamdamith21/OfficeMate-Autonomous-Navigation-System)** | ✅ **Completed** | Full autonomous indoor delivery robot system with SLAM mapping, custom 4WD chassis, and EKF sensor fusion. | ROS 2 Humble, Nav2, Arduino C++, Python |
+| 🌐 **[OfficeMate Web Platform](https://github.com/iamdamith21/officemate-webapp)** | ✅ **Completed** | Real-time web application dashboard for live SLAM map telemetry, interactive goal dispatching, and delivery management. | React 19, Express, MongoDB, ROSLIB.js |
 
 </div>
 
@@ -64,19 +93,24 @@
 
 <div align="center">
 
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=iamdamith21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Damith's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdamith21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamdamith21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Damith's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdamith21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdamith21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdamith21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%"/>
+</p>
+
 <div align="center">
   <sub>Built with ❤️ by Damith Tharanga • University of Moratuwa</sub>
 </div>
+```
