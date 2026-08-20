@@ -78,7 +78,7 @@
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamdamith21&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Damith's GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=iamdamith21&show_icons=true&theme=radical&hide_border=true" alt="Damith's GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdamith21&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
@@ -86,14 +86,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamdamith21&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iamdamith21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=100&section=footer" width="100%"/>
-</p>
 
 <div align="center">
   <sub>Built with ❤️ by Damith Tharanga • University of Moratuwa</sub>
