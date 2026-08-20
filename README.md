@@ -1,18 +1,3 @@
-Here is your updated, highly professional, and eye-catching **GitHub Profile README**. 
-
-### ⚙️ Fixes & Enhancements Made:
-1. **Fixed Broken Typing SVG**: Changed `herokuapp.com` (broken/outdated) to `demolab.com` with high-contrast Cyberpunk Cyan (`#00F0FF`) & Magenta (`#FF007F`).
-2. **Updated Projects**: 
-   - Marked **OfficeMate Autonomous Navigation System** as **Completed** 🟢.
-   - Added your new **Configurable Industrial Sensing & Remote Workforce SaaS Platform** as **Ongoing** ⚡ (incorporating mobile data capture, multi-tenant API, and automated analytics engine).
-3. **Applied Radical/Cyberpunk Theme**: Unified all GitHub Stats and Streak badges to the `radical` theme (neon cyan/magenta look).
-4. **Enhanced Tech Stack Badges**: Replaced invalid icons with fully working, high-definition icons via `skillicons.dev` and `shields.io`.
-
----
-
-### 🚀 Copy & Paste Code below into your `iamdamith21/README.md`:
-
-```markdown
 <!-- TYPING SVG HEADER ANIMATION (FIXED URL) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=70&lines=Hi+there!+I'm+Damith+Tharanga+%F0%9F%91%8B;IT+%26+Engineering+Undergraduate+%40+UoM;Full-Stack+Web+%26+SaaS+Platform+Developer;Robotics+%2B+Industrial+Sensing+Specialist" alt="Typing SVG" />
@@ -113,4 +98,3 @@ Here is your updated, highly professional, and eye-catching **GitHub Profile REA
 <div align="center">
   <sub>Built with ❤️ by Damith Tharanga • University of Moratuwa</sub>
 </div>
-```
