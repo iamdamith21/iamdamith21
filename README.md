@@ -9,27 +9,24 @@
 </div>
 
 <p align="center">
-  🎓 <b>Undergraduate at University of Moratuwa</b> 🇱🇰<br>
-  Specializing in <b>Full-Stack SaaS Platforms</b>, <b>Industrial Sensing Workflows</b>, and <b>ROS 2 Autonomous Robotics</b>.
+  🎓 <b>Engineering & IT Undergraduate at University of Moratuwa</b> 🇱🇰
 </p>
 
 <br>
 
-<!-- EYE-CATCHING SOCIAL & CONTACT BADGES -->
+<!-- EYE-CATCHING SOCIAL BADGES (LOCATION REMOVED) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/damith-tharanga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:abeysinghesmdt.24@uom.lk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/iamdamith21" target="_blank">
     <img src="https://img.shields.io/github/followers/iamdamith21?style=for-the-badge&logo=github&color=00F0FF" alt="GitHub Followers" />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sri_Lanka-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </div>
 
 <br>
@@ -42,11 +39,35 @@
 
 ### 🚀 About Me
 
-- ⚡ **Current Focus (Ongoing)**: Developing a **Configurable Industrial Sensing & Remote Workforce SaaS Platform** — a multi-tenant solution empowering remote teams with mobile data capture, automated workflows, custom dashboard portals, and real-time operational analytics.
-- 🤖 **Completed Milestone**: Built **OfficeMate** — an autonomous 4WD indoor delivery robot platform powered by ROS 2 Humble, Nav2, SLAM Toolbox, and an Express/React Web Management Console.
-- 🎓 **Education**: Undergraduate Engineer / IT Student at **University of Moratuwa** 🇱🇰.
-- 💡 **Core Strengths**: Multi-Tenant SaaS Architecture, REST APIs, System Automation, Embedded Firmware (Arduino/C++), and Responsive Web Applications.
-- 💬 **Ask me about**: SaaS architecture, ROS 2 Nav2 tuning, hardware-software integration, and real-time web telemetry.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚧 Current Focus (Ongoing)</h3>
+      <p><b>Configurable Industrial Sensing & Remote Workforce SaaS Platform</b></p>
+      <ul>
+        <li>📱 Mobile data capture & offline sync</li>
+        <li>🔐 Multi-tenant backend & REST APIs</li>
+        <li>📊 Live dashboard & automated alerts</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Completed Milestone</h3>
+      <p><b>OfficeMate Autonomous Navigation System</b></p>
+      <ul>
+        <li>🧭 ROS 2 Humble, Nav2 & SLAM Toolbox</li>
+        <li>🚙 Custom 4WD chassis & sensor fusion</li>
+        <li>🌐 Express / React real-time telemetry web app</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Education-University_of_Moratuwa-00F0FF?style=flat-square&logo=graduation-cap&logoColor=black" />
+  <img src="https://img.shields.io/badge/Specialization-Full--Stack_SaaS_%26_ROS_2-FF007F?style=flat-square&logo=codefactor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-00F0FF?style=flat-square&logo=gitbook&logoColor=black" />
+</div>
 
 ---
 
@@ -58,7 +79,7 @@
 | :--- | :--- |
 | **Full-Stack & Web** | `PHP` `MySQL` `JavaScript (ES6+)` `React 19` `Node.js` `Express` `MongoDB` `Tailwind CSS` `Vite` |
 | **Robotics & Embedded** | `ROS 2 Humble` `Nav2` `SLAM Toolbox` `C++` `Arduino` `MPU6050` `RPLiDAR` `Gazebo` |
-| **DevOps & Infrastructure** | `Docker` `Git` `GitHub` `Linux (Ubuntu)` `Bash` `Vercel` |
+| **DevOps & Tools** | `Docker` `Git` `GitHub` `Linux (Ubuntu)` `Bash` `Vercel` |
 
 </div>
 
@@ -85,18 +106,18 @@
 
 ---
 
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamdamith21/iamdamith21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+</div>
+
+---
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <!-- RELIABLE ACTIVITY GRAPH -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdamith21&theme=react&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFFFFF&hide_border=true" width="95%" alt="Damith's GitHub Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- RELIABLE STREAK STATS -->
-  <img src="https://streak-stats.demolab.com/?user=iamdamith21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
