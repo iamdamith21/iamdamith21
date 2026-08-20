@@ -14,7 +14,7 @@
 
 <br>
 
-<!-- EYE-CATCHING SOCIAL BADGES (LOCATION REMOVED) -->
+<!-- EYE-CATCHING SOCIAL BADGES -->
 <div align="center">
   <a href="https://www.linkedin.com/in/damith-tharanga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -106,18 +106,18 @@
 
 ---
 
-### 🐍 Contribution Snake Animation
+### 📊 GitHub Streak & Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/iamdamith21/iamdamith21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=iamdamith21&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamdamith21&theme=react&bg_color=0D1117&color=00F0FF&line=FF007F&point=FFFFFF&hide_border=true" width="95%" alt="Damith's GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/iamdamith21/iamdamith21/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 ---
